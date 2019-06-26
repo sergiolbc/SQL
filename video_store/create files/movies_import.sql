@@ -1,0 +1,21 @@
+DELETE FROM video;
+
+Insert into video values ( 1, 'the Matrix', 'Action', '1999-03-31', 'Wachowski siblings');
+Insert into video values ( 2, 'the Dark Knight', 'Thriller', '2008-07-18', 'Christopher Nolan');
+Insert into video values ( 3, 'Man of Steel', 'Action', '2013-06-14', 'Zack Snyder');
+Insert into video values ( 4, 'the Lego Movie', 'Comedy', '2014-02-07', 'Dan Lin, Roy Lee');
+Insert into video values ( 5, 'John Wick', 'Action', '2014-10-24', 'Chad Stahelski, David Leitch');
+Insert into video values ( 6, 'Superbad', 'Comedy', '2007-08-17', 'Greg Mottola');
+Insert into video values ( 7, 'HeavyWeights', 'Comedy', '1995-02-17', 'Steven Brill');
+Insert into video values ( 8, 'August Rush', 'Romance', '2007-11-21', 'Kirsten Sheridan');
+Insert into video values ( 9, 'Begin Again', 'Romance', '2013-06-27', 'John Carney');
+Insert into video values ( 10, 'the Mighty Ducks', 'Comedy', '1992-10-02', 'Steohen Herek');
+Insert into video values ( 11, 'Elf', 'Comedy', '2003-11-07', 'Jon Favreau');
+Insert into video values ( 12, 'Hellboy', 'Action', '2004-04-02', 'Guillermo del Toro');
+Insert into video values ( 13, 'Interstellar', 'Drama', '2014-10-26', 'Christopher Nolan');
+Insert into video values ( 14, 'Yesteday Was Everything', 'Documentary', '2016-06-30', 'Matthew Mixon');
+Insert into video values ( 15, 'Inception', 'Thriller', '2010-07-13', 'Christopher Nolan');
+Insert into video values ( 16, 'Silence of the Lambs', 'Drama', '1991-02-13', 'Jonathan Demme');
+Insert into video values ( 17, 'Toy Story', 'Adventure', '1995-11-22', 'John Lasseter');
+Insert into video values ( 19, 'the Lord of the Rings: the Fellowship of the Ring', 'Adventure', '2001-12-19', 'Peter Jackson');
+Insert into video values ( 20, 'Back to the Future', 'Drama', '1985-07-03', 'Robert Zemeckis');
